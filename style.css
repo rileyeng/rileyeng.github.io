@@ -88,7 +88,6 @@ html {
 }
 
 #hero .overlay {
-  backdrop-filter: blur(2px);
   position: relative;
   z-index: 1;
   background: rgba(0, 0, 0, 0.4);
