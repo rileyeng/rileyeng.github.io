@@ -26,6 +26,9 @@ header {
   background: #1a1a1a;
   color: white;
   padding: 20px 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 header h1 {
@@ -50,6 +53,18 @@ nav a:hover {
 
 html {
   scroll-behavior: smooth;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#services {
+  background-color: #e9ecef;
+}
+
+#contact {
+  background-color: #ffffff;
 }
 
 #hero {
