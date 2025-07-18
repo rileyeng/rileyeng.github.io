@@ -1,2 +1,2 @@
 // Placeholder JS
-console.log("Sentinel Inc. site loaded.");
+console.log("Sentinel site loaded.");
