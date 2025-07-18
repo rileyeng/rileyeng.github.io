@@ -40,8 +40,19 @@ nav a {
 
 #hero {
   background: linear-gradient(120deg, #2c3e50, #34495e);
+  height: 80vh;
   color: white;
-  padding: 60px 0;
+  position: relative;
+  /*padding: 60px 0;*/
+  /*text-align: center;*/
+}
+
+#hero .overlay {
+  background: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 }
 
